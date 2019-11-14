@@ -4,5 +4,5 @@
 
 extern "C"
 {
-    bool DecompressPVR(const void* pTexture, void* out, size_t size);
+    bool DecompressPVR(const void* pTexture, void* out);
 }
